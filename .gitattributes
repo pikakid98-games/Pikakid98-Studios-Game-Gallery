@@ -1,2 +1,3 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+*.gm81 linguist-language=Game-Maker-Language
