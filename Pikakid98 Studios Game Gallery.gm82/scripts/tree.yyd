@@ -1,1 +1,3 @@
-|patch_arg
++patches
+	|patch_arg
+	|isclickable
