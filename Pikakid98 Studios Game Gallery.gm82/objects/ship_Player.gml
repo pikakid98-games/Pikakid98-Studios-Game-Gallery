@@ -17,7 +17,7 @@ relative=0
 invert=0
 arg0=0
 */
-#define Collision_spr_easy
+#define Collision_obj_easy
 /*"/*'/**//* YYD ACTION
 lib_id=1
 action_id=407
@@ -46,7 +46,7 @@ arg0=Do You Wish To Use Another Mode?
 lib_id=1
 action_id=224
 invert=0
-arg0=Techron_Title_1
+arg0=Techron_Title
 arg1=0
 */
 /*"/*'/**//* YYD ACTION
@@ -79,7 +79,7 @@ lib_id=1
 action_id=332
 invert=0
 */
-#define Collision_spr_Very_Easy
+#define Collision_obj_Very_Easy
 /*"/*'/**//* YYD ACTION
 lib_id=1
 action_id=407
@@ -108,7 +108,7 @@ arg0=Do You Wish To Use Another Mode?
 lib_id=1
 action_id=224
 invert=0
-arg0=Techron_Title_1
+arg0=Techron_Title
 arg1=0
 */
 /*"/*'/**//* YYD ACTION
@@ -141,7 +141,7 @@ lib_id=1
 action_id=332
 invert=0
 */
-#define Collision_spr_Normal
+#define Collision_obj_Normal
 /*"/*'/**//* YYD ACTION
 lib_id=1
 action_id=407
@@ -170,7 +170,7 @@ arg0=Do You Wish To Use Another Mode?
 lib_id=1
 action_id=224
 invert=0
-arg0=Techron_Title_1
+arg0=Techron_Title
 arg1=0
 */
 /*"/*'/**//* YYD ACTION
@@ -203,7 +203,7 @@ lib_id=1
 action_id=332
 invert=0
 */
-#define Collision_spr_Hard
+#define Collision_obj_Hard
 /*"/*'/**//* YYD ACTION
 lib_id=1
 action_id=407
@@ -232,7 +232,7 @@ arg0=Do You Wish To Use Another Mode?
 lib_id=1
 action_id=224
 invert=0
-arg0=Techron_Title_1
+arg0=Techron_Title
 arg1=0
 */
 /*"/*'/**//* YYD ACTION
@@ -265,7 +265,7 @@ lib_id=1
 action_id=332
 invert=0
 */
-#define Collision_spr_Intense
+#define Collision_obj_Intense
 /*"/*'/**//* YYD ACTION
 lib_id=1
 action_id=407
@@ -294,7 +294,7 @@ arg0=Do You Wish To Use Another Mode?
 lib_id=1
 action_id=224
 invert=0
-arg0=Techron_Title_1
+arg0=Techron_Title
 arg1=0
 */
 /*"/*'/**//* YYD ACTION
@@ -327,7 +327,7 @@ lib_id=1
 action_id=332
 invert=0
 */
-#define Collision_object17
+#define Collision_obj_wall_hor
 /*"/*'/**//* YYD ACTION
 lib_id=1
 action_id=101
@@ -337,7 +337,7 @@ invert=0
 arg0=000010000
 arg1=0
 */
-#define Collision_object18
+#define Collision_obj_wall_vert
 /*"/*'/**//* YYD ACTION
 lib_id=1
 action_id=101

@@ -12,7 +12,7 @@ for ({var i;i = 1}; i <= parameter_count(); i += 1) {
             window_set_icon(newicon)
             window_set_taskbar_icon(newicon)
             window_set_alttab_icon(newicon)
-            room_goto(Techron_Title_1)
+            room_goto(Techron_Title)
             break;
 
         case "-nomenu":

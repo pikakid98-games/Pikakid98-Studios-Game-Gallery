@@ -1,24 +1,28 @@
-|ship_Player
-|spr_easy
-|object2
-|spr_Very_Easy
-|spr_Normal
-|spr_Hard
-|spr_Intense
-|object17
-|object18
-|object19
-|object20
++Techron
+	|ship_Player
+	+rocks
+		|obj_Very_Easy
+		|obj_easy
+		|obj_Normal
+		|obj_Hard
+		|obj_Intense
+	+walls
+		|obj_wall_hor
+		|obj_wall_vert
+	+buttons
+		|obj_Very_Easy_Button
+		|obj_Easy_Button
+		|obj_Normal_Button
+		|obj_Hard_Button
+		|obj_Intense_Button
+	|obj_techron_title
+	|obj_techron_title_2
++Main Menu
+	|obj_PS_intro
+	|obj_GG_logo
 |object21
-|spr_Very_Easy_Button
-|spr_Easy_Button
-|spr_Normal_Button
-|spr_Hard_Button
-|spr_Intense_Button
-|object27
 |object28
 |object29
 |object30
 |object31
-|Update_V10_No_Updates
 |object33

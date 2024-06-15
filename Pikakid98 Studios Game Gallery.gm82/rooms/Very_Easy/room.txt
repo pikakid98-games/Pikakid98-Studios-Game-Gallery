@@ -1,4 +1,4 @@
-caption=Mode: Very Easy   
+caption=Techron - Very Easy   
 width=640
 height=480
 snap_x=32

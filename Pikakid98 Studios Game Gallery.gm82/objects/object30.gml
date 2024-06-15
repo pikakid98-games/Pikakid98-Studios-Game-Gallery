@@ -1,8 +1,6 @@
-#define KeyPress_73
+#define Mouse_4
 /*"/*'/**//* YYD ACTION
 lib_id=1
-action_id=224
+action_id=322
 invert=0
-arg0=Updates
-arg1=0
 */

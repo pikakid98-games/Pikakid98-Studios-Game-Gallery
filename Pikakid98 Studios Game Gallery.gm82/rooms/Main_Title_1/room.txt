@@ -1,4 +1,4 @@
-caption=[V1.0]
+caption=Pikakid98 Studios Game Gallery
 width=640
 height=480
 snap_x=32

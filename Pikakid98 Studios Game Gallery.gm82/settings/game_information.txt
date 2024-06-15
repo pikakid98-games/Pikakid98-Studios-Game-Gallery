@@ -1,6 +1,6 @@
-color=4278190104
-new_window=1
-caption=Game Information
+color=0
+new_window=0
+caption=Changelog
 left=-1
 top=-1
 width=600

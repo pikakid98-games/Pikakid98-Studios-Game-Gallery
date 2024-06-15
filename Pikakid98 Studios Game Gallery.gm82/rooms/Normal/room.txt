@@ -1,4 +1,4 @@
-caption=Mode: Normal   
+caption=Techron - Normal   
 width=640
 height=480
 snap_x=32

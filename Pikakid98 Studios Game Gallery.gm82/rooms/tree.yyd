@@ -1,9 +1,11 @@
-|Main_Title_1
-|Main_Title_2
-|Updates
-|Techron_Title_1
-|Very_Easy
-|Easy
-|Normal
-|Hard
-|Intense
++Main
+	|Main_Title_1
+	|Main_Title_2
++Techron
+	|Techron_Title
+	+Modes
+		|Very_Easy
+		|Easy
+		|Normal
+		|Hard
+		|Intense
