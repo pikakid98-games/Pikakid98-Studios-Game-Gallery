@@ -1,4 +1,8 @@
 //Thanks, YellowAfterlife ;)
+
+global.isclickable_var = 0
+global.emulatelite = 0
+
 for ({var i;i = 1}; i <= parameter_count(); i += 1) {
     var p; p = parameter_string(i);
     switch (p) {
@@ -16,13 +20,19 @@ for ({var i;i = 1}; i <= parameter_count(); i += 1) {
             break;
 
         case "-nomenu":
-            room_goto(Techron_Title_1)
+            room_goto(Techron_Title)
             break;
 
-            case "-clickablemenu":
-            isclickable_var = 1
+        case "-clickablemenu":
+            global.isclickable_var = 1
+            break;
+
+        case "-lite":
+            global.emulatelite = 1
             break;
     }
 }
 
-isclickable_var = 0
+if global.emulatelite = 0 {
+    instance_deactivate_object(obj_lite_persist)
+}

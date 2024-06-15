@@ -1,3 +1,4 @@
 +patches
 	|patch_arg
 	|isclickable
+	|endgameevent

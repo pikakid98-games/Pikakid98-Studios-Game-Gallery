@@ -26,3 +26,6 @@
 |object30
 |object31
 |object33
++patches
+	|obj_lite_end
+	|obj_lite_persist
