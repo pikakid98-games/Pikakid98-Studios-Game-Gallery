@@ -1,0 +1,5 @@
+"%AHK%\Compiler\Ahk2Exe.exe" /in "Launcher\Launcher.ahk" /out "Output\Launcher.exe" /icon "Launcher\Icon.ico" /compress 2 /base "%AHK%\v2\AutoHotkey64.exe"
+
+"%GM82%" "Pikakid98 Studios Game Gallery.gm82\Pikakid98 Studios Game Gallery.gm82" --build "Output\tmp.exe"
+
+ren "Output\tmp.exe" "Data.pak"

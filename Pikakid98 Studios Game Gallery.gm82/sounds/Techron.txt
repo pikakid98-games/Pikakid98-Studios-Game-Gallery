@@ -1,0 +1,8 @@
+extension=.mp3
+exists=1
+source=Techron.mp3
+kind=0
+effects=0
+volume=1
+pan=0
+preload=1
